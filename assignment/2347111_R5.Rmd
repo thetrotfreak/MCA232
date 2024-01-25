@@ -1,6 +1,12 @@
 ---
-title: "2347111 R5"
-output: html_notebook
+title: "Influence of Webinars and Seminars on Students’ Academic Performance"
+subtitle: "Descriptive Statistics"
+author: "Bivas Kumar (2347111)"
+output:
+  html_document:
+    df_print: paged
+  html_notebook: default
+  pdf_document: default
 ---
 
 ```{r}
